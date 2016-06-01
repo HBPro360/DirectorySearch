@@ -1,0 +1,6 @@
+c:\users\jhamm014089\documents\visual studio 2015\Projects\DirectorySearch\DirectorySearch\bin\Debug\DirectorySearch.exe.config
+c:\users\jhamm014089\documents\visual studio 2015\Projects\DirectorySearch\DirectorySearch\bin\Debug\DirectorySearch.exe
+c:\users\jhamm014089\documents\visual studio 2015\Projects\DirectorySearch\DirectorySearch\bin\Debug\DirectorySearch.pdb
+c:\users\jhamm014089\documents\visual studio 2015\Projects\DirectorySearch\DirectorySearch\obj\Debug\DirectorySearch.csprojResolveAssemblyReference.cache
+c:\users\jhamm014089\documents\visual studio 2015\Projects\DirectorySearch\DirectorySearch\obj\Debug\DirectorySearch.exe
+c:\users\jhamm014089\documents\visual studio 2015\Projects\DirectorySearch\DirectorySearch\obj\Debug\DirectorySearch.pdb
